@@ -1,6 +1,7 @@
 package Week0.Day1;
 public class operator {
     public static void main(String[]args){
+        /*Arithmetic operators */
    /* int a=2,b=3;
     //+,-,*%,/,++,--
     a=a+b;
@@ -21,7 +22,7 @@ public class operator {
     x%=3;//x=x%3;
     */ 
     //*homework bitwise ->,&=,|,>>,<<,^
-    //Loops : for ,While,Do while
+    //Loops : for loop ,While loop ,Do while loop
         //code
         //Using a for loop print sum of all numbers 1-->25
         //1,2,3,4,5,....25
@@ -30,6 +31,7 @@ public class operator {
         //for (int i=1;i<25;i++){
             //*sum=sum+i;
            // System.out.print(sum+" ,");
+           //output the first multiple of 2 and 7 bw 5 to 15(while loop)
            int i=5;
            while(i<15){
                if( i%2==0 &&i%7==0){
@@ -37,11 +39,11 @@ public class operator {
                    i++;
 
         }
-        
+
     
     
     
-    //output the first multiple of 2 and 7 bw 5 to 15
+    
    
        
          
