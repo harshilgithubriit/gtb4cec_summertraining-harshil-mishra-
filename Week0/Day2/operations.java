@@ -209,24 +209,24 @@
 
 
 // array day 2 qstns 
-package Week0.Day1;
-import java.util.scanner;
-public class array2{
-    public static int sum(int arr[]){
-        int sum = 0;
-        for (sum i=0; i,arr.length;i++){
-            sum = sum + arr[i]{
-                sum+=arr[i];
-                }
-                return sum;
-            }
-        } public static void main(String[]args){
+// package Week0.Day1;
+// import java.util.scanner;
+// public class array2{
+//     public static int sum(int arr[]){
+//         int sum = 0;
+//         for (sum i=0; i,arr.length;i++){
+//             sum = sum + arr[i]{
+//                 sum+=arr[i];
+//                 }
+//                 return sum;
+//             }
+//         } public static void main(String[]args){
 
-        }
-    }
-}
+//         }
+//     }
+// }
         
 
     
 
-}
+// }
